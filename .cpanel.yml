@@ -1,5 +1,0 @@
----
-deployment:
-   tasks:
-    - export DEPLOYPATH=/home/bapakgob/m.adaweb.my.id/
-    - /bin/cp -R public/* $DEPLOYPATH
