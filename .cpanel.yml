@@ -1,6 +1,6 @@
 ---
 deployment:
-  tasks:
+   tasks:
     - export DEPLOYPATH=/home/user/m.adaweb.my.id/
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
